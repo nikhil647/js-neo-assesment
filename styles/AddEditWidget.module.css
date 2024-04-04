@@ -1,0 +1,13 @@
+.widgetContainer {
+  min-height: 90px;
+  margin-top: 20px;
+}
+
+.submitBtnStyle button {
+  align-self: center;
+}
+
+.redError {
+  font-size: small;
+  color: red;
+}

@@ -1,0 +1,22 @@
+.signInContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 400px;
+  margin: 0 auto;
+  height: 100vh;
+  position: relative;
+  top: -50px;
+}
+
+.redError {
+  font-size: small;
+  color: red;
+}
+
+.captchaContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}

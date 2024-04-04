@@ -1,0 +1,19 @@
+.recycleBin {
+  height: 100px;
+  background: rgba(181, 32, 32, 0.1);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+  left: 25%;
+  box-shadow: 4px 4px 10px 10px  rgba(181, 32, 32, 0.5);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.recycleBin svg {
+  height: 40px;
+  width: 40px;
+}

@@ -1,0 +1,13 @@
+
+.taskContainer {
+  min-height: min-content;
+}
+
+.colContainer {
+  border: 1px dotted rgb(116, 90, 90);
+}
+
+.countContainer {
+  height: 120px;
+  align-items: center;
+}

@@ -1,0 +1,13 @@
+.registerContainer {
+  margin-top: 100px;
+  max-width: 400px;
+  margin: 0 auto;
+
+  
+
+}
+
+.redError {
+  font-size: small;
+  color: red;
+}

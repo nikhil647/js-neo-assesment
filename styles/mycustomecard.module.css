@@ -1,0 +1,28 @@
+
+
+.cardFooterContainer svg {
+    height: 30px;
+    width: 30px;    
+    cursor: pointer;
+    margin: 4px;
+}
+
+.cardFooterContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.colContainer h3 {
+    text-align: center;
+}
+
+.stageStyling {
+    float: right;
+}
+
+.btnContainer button {
+    margin: 4px;
+}

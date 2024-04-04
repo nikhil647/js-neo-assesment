@@ -1,0 +1,13 @@
+.btnAdd {
+  display: flex;
+  width: 130px;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnAdd svg {
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+  font-weight: bold;
+}
